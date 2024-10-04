@@ -13,13 +13,13 @@
 ###
 
 <div align="center">
-  <a href="mailto:dyrlos99@gmail.com" target="_blank">
+  <a href="mailto:dyrlos99@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https:/linkedin.com/in/raphaelccloureiro" target="_blank">
+  <a href="https:/linkedin.com/in/raphaelccloureiro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/5521976644343" target="_blank">
+  <a href="https://wa.me/5521976644343" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.canva.com/design/DAGQpp9oqGs/x6ujwZD2jYGRkn3FthcbQQ/view?utm_content=DAGQpp9oqGs&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <a href="https://www.canva.com/design/DAGQpp9oqGs/x6ujwZD2jYGRkn3FthcbQQ/view?utm_content=DAGQpp9oqGs&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=baixar%20pdf&logo=medium&label=Meu%20Curr%C3%ADculo&color=red&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
@@ -76,10 +76,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyrlos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dyrlos/dyrlos/output/snake.svg" alt="Snake animation" />
-
-###
