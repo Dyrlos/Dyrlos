@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://www.canva.com/design/DAGQpp9oqGs/x6ujwZD2jYGRkn3FthcbQQ/view?utm_content=DAGQpp9oqGs&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=baixar%20pdf&logo=medium&label=Meu%20Curr%C3%ADculo&color=red&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=clique%20aqui&logo=medium&label=Meu%20Curr%C3%ADculo&color=red&logoColor=black&labelColor=black&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
 
