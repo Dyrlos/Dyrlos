@@ -4,7 +4,7 @@
 
 <br clear="both">
 <img align="right" height="150" src="https://64.media.tumblr.com/bd102b9b3085741102a2b2e9e6a073f0/tumblr_p3u7dgjDfb1ujn35ko1_500.gif"  />
-<p align="left">💡Aspirante a especialista em ciência de dados apaixonado por tecnologia e inovações, sempre em busca de soluções eficientes e criativas.<br>🎓 Cursando 6o período de Ciência da Computação<br>🔍 Atualmente, estou desenvolvendo habilidades em: Ciência de dados, Banco de Dados e Aprendizado de Máquina</p>
+<p align="left">💡Aspirante a especialista em ciência de dados apaixonado por tecnologia e inovações, sempre em busca de soluções eficientes e criativas.<br>🎓 Cursando 7o período de Ciência da Computação<br>🔍 Atualmente, estou desenvolvendo habilidades em: Ciência de dados, Banco de Dados e Aprendizado de Máquina</p>
 
 ###
 
